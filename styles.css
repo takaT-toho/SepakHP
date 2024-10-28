@@ -90,6 +90,13 @@ a {
     margin-bottom: 1.5rem;
 }
 
+.sub-benefit-title {
+    margin-left: 1rem;
+    font-size: 1.2rem;
+    color: #4b5563;
+    margin-bottom: 1rem;
+}
+
 .feature-list {
     list-style-type: none;
     padding: 0;
