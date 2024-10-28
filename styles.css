@@ -197,6 +197,7 @@ body {
 
 .demo-description {
     max-width: 60%;
+    text-align: left;
 }
 
 .demo-description h3 {
